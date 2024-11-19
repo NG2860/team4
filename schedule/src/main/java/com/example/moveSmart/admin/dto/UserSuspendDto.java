@@ -25,6 +25,8 @@ public class UserSuspendDto {
                 .suspended(entity.getSuspended())
                 .suspendStartDate(entity.getSuspendStartDate())
                 .build();
+
+
     }
 }
 
